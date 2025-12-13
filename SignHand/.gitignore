@@ -1,0 +1,20 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity packages cache (VERY IMPORTANT)
+PackageCache/
+
+# Rider / VS / VSCode
+.vs/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
